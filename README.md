@@ -35,7 +35,7 @@ Interest type: Simple / Compound
 
 🚀 Live Demo
 
-https://username.github.io/interest-calculator-html-js/
+ https://yuvronixstudio.github.io/interest-calculator/
 
 📁 Project Structure
 interest-calculator/
