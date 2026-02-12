@@ -1,6 +1,3 @@
-Alright. This is a clean, trustworthy, conversion-aware README — not bloated, not childish, not salesy.
-You can paste this directly as README.md.
-
 📊 Interest Calculator (Simple & Compound)
 
 A clean, responsive Interest Calculator built with HTML, CSS, and Vanilla JavaScript.
